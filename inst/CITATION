@@ -1,0 +1,18 @@
+citHeader("To cite RGenIE in publications use:")
+
+citEntry(entry = "Article",
+  title        = "Screening for functional transcriptional and splicing regulatory variants with GenIE",
+  author       = personList(as.person("Jeremy Schwartzentruber")),
+  journal      = "Nucleic Acids Research",
+  year         = "2020",
+  volume       = "",
+  number       = "",
+  pages        = "",
+  url          = "",
+
+  textVersion  =
+  paste("Sarah E. Cooper, Jeremy Schwartzentruber, Erica Bello, Eve L Coomber, Andrew R. Bassett (2020).",
+        "Screening for functional transcriptional and splicing regulatory variants with GenIE.",
+        "Nucleic Acids Research.",
+        "")
+)
